@@ -1,5 +1,5 @@
 # Simulation Setting
-![Sim](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Sim](https://github.com/junlu1995/Ref-Sim/sim.png)
 
 
 
