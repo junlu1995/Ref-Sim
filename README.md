@@ -1,5 +1,5 @@
 # Simulation Setting
-![Sim](https://github.com/junlu1995/Ref-Sim/sim.png)
+![Sim](sim.png)
 
 
 
