@@ -1,8 +1,9 @@
 # Simulation Setting
 ![Sim](sim.png)
+![Sim](Rplot02.pdf)
 
-
-
+# Simulation Result
+![Sim](sim2.pdf)
 
 
 # Reference
