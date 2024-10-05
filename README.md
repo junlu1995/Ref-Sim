@@ -1,6 +1,6 @@
 # Simulation Setting
 ![Sim](sim.png)
-![Sim](Rplot02.pdf)
+![Sim](sim3.png)
 
 # Simulation Result
 ![Sim](sim2.png)
