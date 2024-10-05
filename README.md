@@ -1,5 +1,10 @@
-# Reference
-This github repo contains simulations and reference for the poster.
+# Simulation Setting
+![Sim](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+
+
+
+
 # Reference
 [1] Zheng W, van der Laan M. Longitudinal mediation analysis with time-varying mediators and exposures, with application
 to survival outcomes. Journal of causal inference 2017;5(2):20160006.
