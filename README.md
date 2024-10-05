@@ -1,8 +1,9 @@
 # Simulation Setting
-![Sim](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Sim](sim.png)
+![Sim](Rplot02.pdf)
 
-
-
+# Simulation Result
+![Sim](sim2.png)
 
 
 # Reference
