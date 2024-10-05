@@ -3,7 +3,7 @@
 ![Sim](Rplot02.pdf)
 
 # Simulation Result
-![Sim](sim2.pdf)
+![Sim](sim2.png)
 
 
 # Reference
